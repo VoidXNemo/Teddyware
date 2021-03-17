@@ -32,3 +32,10 @@ IntelliJ IDEA (community edition): https://www.jetbrains.com/idea/download/#sect
 PanelStudio ClickGUI: https://github.com/lukflug/PanelStudio <br>
 <br>
 ![alt text for photo](https://cdn.discordapp.com/attachments/807282463512592445/821552314824654848/maybe_1_2.jpg)
+
+## Developers
+Owner. chomp#0986
+Developer. BruhPenis?#2777
+Developer. timgo#3341
+
+Thank you all for working on this project and making it better than ever.
